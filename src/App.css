@@ -1,0 +1,34 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+}
+
+.App {
+  text-align: center;
+}
+
+.btn-add {
+  height: 2rem;
+  border-radius: 3px;
+  padding: 0px;
+  width: 60px;
+}
+
+.buttons .btn-dark {
+  padding: 5px 10px;
+}
+
+.input-todo{
+  width: 250px;
+  border-radius: 5px;
+  height: 31px;
+  padding-left: 5px;
+}
+
+.card {
+  width: 300px;
+}
+
+.text-area {
+  padding-left: 5px;
+}
